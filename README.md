@@ -1,20 +1,20 @@
 # Python Projects
 
-Welcome to my Python project repository, where I present a collection of diverse Python projects. Each project serves as a demonstration of different programming concepts and practical applications in Python. Feel free to explore and utilize these projects for learning and reference.
+Welcome to my Python project repository, where I present a collection of diverse Python projects. Each project serves as a demonstration of different practical applications in Python. Feel free to explore and utilize these projects for learning and reference.
 
 ## Projects
 
-### 1. Todo List
-
-- **Description:** A simple yet efficient to-do list application that allows you to create, manage, and organize tasks.
-- **Folder:** `todo-list`
-- **Usage:** Add, update, and complete tasks with ease.
-
-### 2. Calculator
+### 1. Calculator
 
 - **Description:** A graphical calculator application that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 - **Folder:** `calculator`
 - **Usage:** Calculate math expressions in a user-friendly interface.
+
+### 2. Todo List
+
+- **Description:** A simple yet efficient to-do list application that allows you to create, manage, and organize tasks.
+- **Folder:** `todo-list`
+- **Usage:** Add, update, and complete tasks with ease.
 
 ### 3. Password Generator
 
@@ -32,7 +32,7 @@ Welcome to my Python project repository, where I present a collection of diverse
 
 - **Description:** An application that employs speech recognition to convert spoken words into text, enabling voice-based interaction with your computer.
 - **Folder:** `speech-recognition`
-- **Usage:** convert you speech to text.
+- **Usage:** convert you speech to textit.
 
 ### 6. Text-to-Speech
 
@@ -49,5 +49,7 @@ To run these projects locally or contribute to them, consult the individual proj
 This repository is licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for full details.
 
 ## Contributing
-
-Interested in contributing or reporting issues for any of these projects? Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+Interested in contributing or reporting issues for any of these projects?
+- Clone this repository:
+`git clone https://github.com/your-user-name/repo-name.git`
+- Feel free to add new projects or improve on the existing ones. These are just basic implementations to get you started. 
