@@ -50,6 +50,8 @@ This repository is licensed under the MIT License. Refer to the [LICENSE](LICENS
 
 ## Contributing
 Interested in contributing or reporting issues for any of these projects?
-- Clone this repository:
-`git clone https://github.com/your-user-name/repo-name.git`
+- Clone this repository to your local machine:
+```
+git clone https://github.com/your-user-name/repo-name.git
+```
 - Feel free to add new projects or improve on the existing ones. These are just basic implementations to get you started. 
